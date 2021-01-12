@@ -1,2 +1,8 @@
-# red_black_tree
-A Red - Black tree created for CPSC 223 (data structures) 
+Project Overview:
+The purpose of the red / black tree project was to have students demonstrate their ability to create a red / black tree in C++. 
+
+Features:
+
+Setup & Installation:
+
+Misc Details: 
